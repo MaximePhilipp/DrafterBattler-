@@ -1,0 +1,22 @@
+*.zbr filter=lfs diff=lfs merge=lfs eol=lf -text
+*.psd filter=lfs diff=lfs merge=lfs eol=lf -text
+*.spp filter=lfs diff=lfs merge=lfs eol=lf -text
+*.ZPR filter=lfs diff=lfs merge=lfs eol=lf -text
+*.mov filter=lfs diff=lfs merge=lfs eol=lf -text
+*.ztl filter=lfs diff=lfs merge=lfs eol=lf -text
+*.rar filter=lfs diff=lfs merge=lfs eol=lf -text
+*.spm filter=lfs diff=lfs merge=lfs eol=lf -text
+*.umap filter=lfs diff=lfs merge=lfs eol=lf
+*.mb filter=lfs diff=lfs merge=lfs eol=lf
+*.ma filter=lfs diff=lfs merge=lfs eol=lf
+*.fbx filter=lfs diff=lfs merge=lfs eol=lf -text
+*.png filter=lfs diff=lfs merge=lfs eol=lf -text
+*.tga filter=lfs diff=lfs merge=lfs eol=lf -text
+*.wav filter=lfs diff=lfs merge=lfs eol=lf -text
+*.jpg filter=lfs diff=lfs merge=lfs eol=lf -text
+*.mp4 filter=lfs diff=lfs merge=lfs eol=lf -text
+*.wav filter=lfs diff=lfs merge=lfs eol=lf -text
+*.bnk filter=lfs diff=lfs merge=lfs eol=lf -text
+*.dll filter=lfs diff=lfs merge=lfs eol=lf -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
